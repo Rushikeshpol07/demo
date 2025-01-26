@@ -1,1 +1,2 @@
 Hey! This is for testing purpose.
+This is a sample text.
